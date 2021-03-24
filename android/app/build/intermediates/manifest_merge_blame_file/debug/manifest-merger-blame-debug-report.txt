@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hookahcustomer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:6:5-65
+13-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:6:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:7:5-70
+14-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:7:22-68
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:8:5-80
+15-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:8:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:9:5-81
+16-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.facebook.flipper:flipper:0.54.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.54.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.android.gms:play-services-iid:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/61e3e279020c351517b511e7d56d43f0/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+18-->[com.google.android.gms:play-services-iid:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/61e3e279020c351517b511e7d56d43f0/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+19-->[com.android.installreferrer:installreferrer:1.1.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/744c11701aa7144a8d6a8e89bcdad6bd/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+19-->[com.android.installreferrer:installreferrer:1.1.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/744c11701aa7144a8d6a8e89bcdad6bd/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+20
+21    <application
+21-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:11:5-32:19
+22        android:name="com.hookahcustomer.MainApplication"
+22-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:12:7-38
+23        android:allowBackup="false"
+23-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:16:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:14:7-41
+27        android:label="@string/app_name"
+27-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:13:7-39
+28        android:requestLegacyExternalStorage="true"
+28-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:18:7-50
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:15:7-52
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:17:7-38
+32        android:usesCleartextTraffic="true" >
+32-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/debug/AndroidManifest.xml:7:18-53
+33        <activity
+33-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:20:7-30:18
+34            android:name="com.hookahcustomer.MainActivity"
+34-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:21:9-37
+35            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+35-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:23:9-86
+36            android:label="@string/app_name"
+36-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:22:9-41
+37            android:launchMode="singleTask"
+37-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:24:9-40
+38            android:windowSoftInputMode="adjustResize" >
+38-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:25:9-51
+39            <intent-filter>
+39-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:26:9-29:25
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:27:13-65
+40-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:27:21-62
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:28:13-73
+42-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:28:23-70
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+45-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:31:7-84
+45-->/Users/apple/Desktop/MyWork/projects/hookahcenter--app/android/app/src/main/AndroidManifest.xml:31:17-81
+46
+47        <provider
+47-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+48            android:name="com.imagepicker.FileProvider"
+48-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+49            android:authorities="com.hookahcustomer.provider"
+49-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+50            android:exported="false"
+50-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+51            android:grantUriPermissions="true" >
+51-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+52            <meta-data
+52-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+53                android:name="android.support.FILE_PROVIDER_PATHS"
+53-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+54                android:resource="@xml/provider_paths" />
+54-->[:react-native-image-picker] /Users/apple/Desktop/MyWork/projects/hookahcenter--app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+55        </provider>
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+61
+62        <meta-data
+62-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8bbc154881a554135110a6024ffe09f1/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+63            android:name="com.google.android.gms.version"
+63-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8bbc154881a554135110a6024ffe09f1/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+64            android:value="@integer/google_play_services_version" />
+64-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8bbc154881a554135110a6024ffe09f1/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+65    </application>
+66
+67</manifest>

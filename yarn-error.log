@@ -1,0 +1,103 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-responsive-screen --dev
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\CMake\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\ffmpeg\bin;C:\Users\hadi-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\heroku\bin;C:\Users\hadi-\AppData\Local\Yarn\bin;C:\Users\hadi-\AppData\Roaming\npm;C:\Users\hadi-\AppData\Local\GitHubDesktop\bin;C:\Users\hadi-\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, copyfile 'C:\Users\hadi-\AppData\Local\Yarn\Cache\v6\npm-@babel-runtime-corejs3-7.12.5-ffee91da0eb4c6dae080774e94ba606368e414f4-integrity\node_modules\@babel\runtime-corejs3\package.json' -> 'A:\sheikhht\Hookah\hookahcenter\node_modules\@babel\runtime-corejs3\package.json'
+
+npm manifest: 
+  {
+    "name": "HookahCustomer",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "android": "react-native run-android",
+      "ios": "react-native run-ios",
+      "start": "react-native start",
+      "test": "jest",
+      "lint": "eslint ."
+    },
+    "resolutions": {
+      "styled-components": "^5"
+    },
+    "dependencies": {
+      "@react-native-community/async-storage": "^1.12.1",
+      "@react-native-community/datetimepicker": "^3.0.6",
+      "@react-native-community/masked-view": "^0.1.10",
+      "@react-navigation/drawer": "^5.11.2",
+      "@react-navigation/material-top-tabs": "^5.3.9",
+      "@react-navigation/native": "^5.8.2",
+      "@react-navigation/stack": "^5.11.1",
+      "axios": "^0.21.0",
+      "jslint": "^0.12.1",
+      "moment": "^2.29.1",
+      "react": "16.13.1",
+      "react-native": "0.63.3",
+      "react-native-calendar-picker": "^7.0.3",
+      "react-native-datepicker": "^1.7.2",
+      "react-native-gesture-handler": "^1.8.0",
+      "react-native-image-picker": "^2.3.4",
+      "react-native-linear-gradient": "^2.5.6",
+      "react-native-reanimated": "^1.13.1",
+      "react-native-safe-area-context": "^3.1.8",
+      "react-native-safe-area-view": "^1.1.1",
+      "react-native-screens": "^2.12.0",
+      "react-native-status-bar-height": "^2.5.0",
+      "react-native-tab-view": "^2.15.2",
+      "react-navigation": "^4.4.3",
+      "react-redux": "^7.2.2",
+      "redux": "^4.0.5",
+      "redux-persist": "^6.0.0",
+      "redux-thunk": "^2.3.0",
+      "styled-components": "^5.2.1"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.12.3",
+      "@babel/runtime": "^7.12.1",
+      "@react-native-community/eslint-config": "^2.0.0",
+      "babel-jest": "^26.6.1",
+      "eslint": "^7.12.1",
+      "jest": "^26.6.1",
+      "metro-react-native-babel-preset": "^0.63.0",
+      "react-test-renderer": "16.13.1",
+      "babel-eslint": "^10.1.0",
+      "eslint-config-airbnb": "^18.2.0",
+      "eslint-config-prettier": "^6.11.0",
+      "eslint-config-wesbos": "^1.0.1",
+      "eslint-plugin-html": "^6.1.0",
+      "eslint-plugin-import": "^2.22.0",
+      "eslint-plugin-jsx-a11y": "^6.3.1",
+      "eslint-plugin-prettier": "^3.1.4",
+      "eslint-plugin-react": "^7.20.6",
+      "eslint-plugin-react-hooks": "^4.1.2",
+      "prettier": "^2.1.1"
+    },
+    "jest": {
+      "preset": "react-native"
+    },
+    "prettier": {
+      "quoteProps": "consistent",
+      "tabWidth": 2,
+      "jsxSingleQuote": true,
+      "singleQuote": true,
+      "semi": true,
+      "arrowParens": "always"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

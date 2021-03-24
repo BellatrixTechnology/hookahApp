@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hookah.iml" filepath="$PROJECT_DIR$/.idea/modules/Hookah.iml" group="Hookah" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Hookah/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1616512205/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1616512205/react-native-community_async-storage.iml" group="Hookah/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1941890464/react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1941890464/react-native-community_datetimepicker.iml" group="Hookah/react-native-community_datetimepicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-963736848/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-963736848/react-native-community_masked-view.iml" group="Hookah/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1169074151/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1169074151/react-native-gesture-handler.iml" group="Hookah/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1970287743/react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1970287743/react-native-image-picker.iml" group="Hookah/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1789025273/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1789025273/react-native-linear-gradient.iml" group="Hookah/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/778592725/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/778592725/react-native-reanimated.iml" group="Hookah/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1149803888/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1149803888/react-native-safe-area-context.iml" group="Hookah/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/595703464/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/595703464/react-native-screens.iml" group="Hookah/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-699412145/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-699412145/react-native-vector-icons.iml" group="Hookah/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
